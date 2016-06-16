@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Sobers Stories</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="user_logged_in">User Logged In</string>
+    <string name="enter_username">Username</string>
+    <string name="enter_password">Password</string>
+    <string name="or_sign_up_instead"> Or Sign up Instead </string>
+    <string name="enter_values">Fields empty, enter values</string>
+    <string name="enter_email">Enter email</string>
+    <string name="enter_caption">Enter Caption</string>
+    <string name="enter_description">Enter Description</string>
+    <string name="add_story">Add Story</string>
+    <string name="add_image">Add Image</string>
+    <string name="home_description">The home button shows you the stories posted by users in chronological order. You can like the stories, view them in detail and share with your friends!</string>
+    <string name="search_description">The search view allows you to look for users by their username and view stories posted by them. You can like the stories, view them in detail and share with your friends!</string>
+    <string name="profile_description">The profile view shows you the stories posted by you in a grid format. You can view and delete your stories in this view!</string>
+    <string name="add_description">The add view allows you to post new stories. You can add an image, an optional video, a caption and a longer story.</string>
+
+</resources>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center_vertical"
+    android:background="#e9e2e2"
+    android:gravity="center"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:textColor="#000"
+        android:text="Sober Stories"
+        android:textSize="48sp"
+        android:typeface="serif"
+        android:id="@+id/sober_stories"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp"
+        />
+
+
+    <LinearLayout
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    android:layout_weight="1"
+    android:gravity="bottom|center"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/login_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/white"
+        android:text="Login"
+        android:textColor="#bab9b9"
+        android:layout_margin="10dp"
+        android:textStyle="bold"
+        android:textSize="24sp"
+        android:textAllCaps="false"
+        android:stateListAnimator="@null"
+
+        />
+
+
+
+    <Button
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/signup_select"
+    android:textStyle="bold"
+    android:text="Register"
+    android:textSize="24sp"
+    android:textColor="#bab9b9"
+    android:layout_margin="10dp"
+    android:background="@android:color/white"
+    android:layout_below="@id/login_button"
+    android:textAllCaps="false"
+    android:layout_centerVertical="true"
+    android:stateListAnimator="@null"
+ />
+
+    </LinearLayout>
+
+
+</LinearLayout>

@@ -1,0 +1,21 @@
+    <resources>
+    <string name="app_name">Voyage à la Sobriété</string>
+    <string name="action_settings">Paramètres</string>
+
+    <string name="user_logged_in">Utilisateur connecté</string>
+    <string name="enter_username">Nom d\'utilisateur</string>
+    <string name="enter_password">Mot de Passe</string>
+    <string name="or_sign_up_instead">Ou Inscrivez-vous à la place </string>
+    <string name="enter_values">Boîte vide entrer des valeurs</string>
+    <string name="enter_email">Entrez email</string>
+    <string name="enter_caption">Saisir Légende</string>
+    <string name="enter_description">Entrez Description</string>
+    <string name="add_story">Ajouter histoire</string>
+    <string name="add_image">Ajouter Image</string>
+        <string name="home_description">The home button shows you the stories posted by users in chronological order. You can like the stories, view them in detail and share with your friends!</string>
+        <string name="search_description">The search view allows you to look for users by their username and view stories posted by them. You can like the stories, view them in detail and share with your friends!</string>
+        <string name="profile_description">The profile view shows you the stories posted by you in a grid format. You can view and delete your stories in this view!</string>
+        <string name="add_description">The add view allows you to post new stories. You can add an image, an optional video, a caption and a longer story.</string>
+
+
+    </resources>

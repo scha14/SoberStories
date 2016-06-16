@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:id="@+id/lin"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:orientation="horizontal"
+        android:weightSum="4">
+
+        <EditText
+            android:id="@+id/search_username_text"
+            android:layout_width="0dp"
+            android:layout_height="60dp"
+            android:layout_weight="4"
+            android:hint="Enter Username"
+            android:textColorHint="@color/colorPrimary" />
+
+        <ImageButton
+            android:id="@+id/search_username_button"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:background="@color/colorPrimary"
+            android:padding="5dp"
+            android:src="@drawable/search" />
+
+
+    </LinearLayout>
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/search_user_recycler_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/lin" />
+
+
+</RelativeLayout>

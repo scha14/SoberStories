@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Viaje a Sobriery</string>
+    <string name="action_settings">Ajustes</string>
+
+    <string name="user_logged_in">Usuario conectado</string>
+    <string name="enter_username">Nombre de usuario</string>
+    <string name="enter_password">Contraseña</string>
+    <string name="or_sign_up_instead">En lugar o Regístrate</string>
+    <string name="enter_values">Los campos vacíos , introduzca los valores</string>
+    <string name="enter_email">Correo Electrónico</string>
+    <string name="enter_caption">Ingresar Subtítulo</string>
+    <string name="enter_description">Introduzca Descripción</string>
+    <string name="add_story">Añadir Historia</string>
+    <string name="add_image">Añadir Imagen</string>
+    <string name="home_description">The home button shows you the stories posted by users in chronological order. You can like the stories, view them in detail and share with your friends!</string>
+    <string name="search_description">The search view allows you to look for users by their username and view stories posted by them. You can like the stories, view them in detail and share with your friends!</string>
+    <string name="profile_description">The profile view shows you the stories posted by you in a grid format. You can view and delete your stories in this view!</string>
+    <string name="add_description">The add view allows you to post new stories. You can add an image, an optional video, a caption and a longer story.</string>
+
+
+</resources>
